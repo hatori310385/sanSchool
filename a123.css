@@ -1,0 +1,29 @@
+.all{/*background-color:red;*/ }
+.header{background-image: url(img/bg.jpg);background-repeat: no-repeat;background-size: cover;width: 100%;height: 130px;position: absolute;background-position: right bottom;}
+body{margin:0;}
+.logo{width: 25%;float:left;position: absolute;}
+.logo img{width: 100%;}
+.footer{text-align:center;background-color: #323131;padding:8px 0px;color: #ffffff;clear:both;}
+.menu li{float:left;list-style: none;margin:0px 8px;}
+.menu li a{text-decoration: none;}
+.menu li a:hover{color: #FF0004;}
+.menu ul{S}
+.menu{width: 75%;float:right;}
+.main{clear:both;padding: 16px;min-height: 300px;margin-top: 140px;position: absolute;}
+.float-right{float:right;}
+.float-left{float:left;}
+.margin8px{margin:8px;}
+/*1.html*/
+
+.main .img1{width:30%;height: auto;}
+.main h1{font-size: 20px;color:#E96003;}
+
+/*2.html*/
+.keyword1{font-size:16px;font-weight:normal;display: contents;}
+.img-center{display:block;margin:auto;}
+
+/*6.html*/
+.msg{display: block;width: 31%;height:20em;float: left;margin:0.5%;padding:0.5%;border:1px solid #666;overflow: hidden;}
+.msg a{text-decoration:none;color:#F48100;}
+.msg:hover{background-color: #F5F282;}
+.msg img{max-width:100%;height: auto;}
